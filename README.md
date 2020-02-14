@@ -12,7 +12,7 @@
 Email: yankina109@gmail.com
 
 #### Технические навыки:
-Разработка макетов в Figma; Верстка на HTML5, CSS (с использованием grid, flexbox, модульных стилей, готовых компонент из библиотеки material-ui), знание SASS / SCSS;  ReactJS: Browser-router, hooks, HOC, классовые компоненты и их жизненные циклы, функциональные компоненты, ajax-запросы, axios, fetch; cookie; Redux: redux, redux-thunk, redux-form, redux-ducks; знания JavaScript, TypeScript, ES6; умею работать с VCS github, ОС-windows, linux, работа с консолью в linux.
+Разработка макетов в Figma; Верстка на HTML5, CSS (с использованием grid, flexbox, модульных стилей, готовых компонент из библиотеки material-ui), знание SASS / SCSS;  ReactJS: Browser-router, hooks, HOC, классовые компоненты и их жизненные циклы, функциональные компоненты, ajax-запросы, axios, fetch; cookie; reselect; Redux: redux, redux-thunk, redux-form, redux-ducks; знания JavaScript, TypeScript, ES6; умею работать с VCS github, ОС-windows, linux, работа с консолью в linux.
 #### Опыт работы и проекты:
 C 01.09.2019 по настоящий момент участвую в разработке Web-приложения по подбору хобби: https://github.com/HobbyTaste/web-application/tree/front-1
 
